@@ -38,6 +38,7 @@
 ### **Section 36 : Course Summary**
 ### **Section 37 : Appendix**
 
+---
 
 # Full Stack: Angular and Spring Boot
 
